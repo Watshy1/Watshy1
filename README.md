@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Watshy1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Watshy! 👋
 
-<!---
-Watshy1/Watshy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+
+I'm a student at Epitech Digital in 2nd year.
+I love video games, anime and especially dev.
+
+## 🛠 Skills
+HTML, CSS, Javascript, React JS, React Native, Node JS, Vue JS, PHP, Symfony, MySQL...
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://watshy.fr/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-qu%C3%A9va-33b41a234/)
